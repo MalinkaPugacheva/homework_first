@@ -54,11 +54,11 @@ else
 /*
 Console.Write("Input positive integer number: ");
 int number = Convert.ToInt32(Console.ReadLine());
-Next (1, n)
-int current = number+2;
+int current = number%2;
 
 while(current<=number)
 {
-    Console.Write(current + " ");
+    Console.Write(current=number%2);
+    current++;
 }
 */
